@@ -111,6 +111,14 @@ Scraped customer reviews from KakaoMap and Naver Map using Octoparse. Reviews we
 
 ## 📁 Repository Structure
 
+├── README.md
+├── preprocessing/
+│   └── preprocessing.ipynb       # Text cleaning & tokenisation
+├── visualization/
+│   └── wordcloud.ipynb           # Word cloud generation
+└── data/
+└── README.md                 # Data description (raw data not included)
+
 ---
 
 ## 🔗 Links
